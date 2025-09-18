@@ -1,12 +1,15 @@
 ## Androguard Organization 👋
 
-<!--
+Androguard Organization is a set of tools, projects, libraries around Android and security.
 
-**Here are some ideas to get you started:**
+The main projects are:
+ * [AXML](https://github.com/androguard/axml): The Rosetta Stone for Android's Binary XML
+ * [APK-Parser](https://github.com/androguard/apk-parser): Your Crowbar for Android Archives
+ * [DEX-Parser]
+ * [DEX-Bytecode]
+ * [Androguard](https://github.com/androguard/androguard): Reverse engineering and pentesting for Android applications
+ * [Freedump](https://github.com/androguard/freedump): Freedump is a library and cli tool that allow you to read/write/dump the memory of a process via Frida, and also to manipulate a dump later locally for quick search.
+ * [Goauld](https://github.com/androguard/goauld): Dynamic injection tool for Linux/Android process via /proc/pid/mem
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+and some POCS:
+ * [Yara-Droid](https://github.com/androguard/yara-droid): A small and quick version of Yara-X for Android
