@@ -13,3 +13,5 @@ The main projects are:
 
 and some POCS:
  * [Yara-Droid](https://github.com/androguard/yara-droid): A small and quick version of Yara-X for Android
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/ping2a)
